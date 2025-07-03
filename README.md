@@ -11,7 +11,8 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,py,react,cs,net,php,bash,bootstrap,lua&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,cs,net,bash,bootstrap&perline=14" />
+    <!--py,react,php,,lua-->
   </a>
 </p>
 
